@@ -5,7 +5,7 @@
 
 2.**[Median Filter](https://github.com/erik-argel/TP_II_Orga_II_SIMD/tree/main#median-filter)**
 
-3.**[Blend Modes C](https://github.com/erik-argel/TP_II_Orga_II_SIMD/tree/main#blend-modes-c-)**
+3.**[Blend Modes C](https://github.com/erik-argel/TP_II_Orga_II_SIMD/blob/main/README.md#blend-modes--c-)**
 
 4.**[Blend Modes ASM](https://github.com/erik-argel/TP_II_Orga_II_SIMD/tree/main#blend-modes-asm-)**
 
