@@ -7,7 +7,7 @@
 
 3.**[Blend Modes C](https://github.com/erik-argel/TP_II_Orga_II_SIMD/blob/main/README.md#blend-modes--c-)**
 
-4.**[Blend Modes ASM](https://github.com/erik-argel/TP_II_Orga_II_SIMD/tree/main#blend-modes-asm-)**
+4.**[Blend Modes ASM](https://github.com/erik-argel/TP_II_Orga_II_SIMD/blob/main/README.md#blend-modes--asm-)**
 
 5.**[Comparativa](https://github.com/erik-argel/TP_II_Orga_II_SIMD/tree/main#comparativa)**
 
