@@ -1,15 +1,15 @@
 # TP 2 SMID Argel Zarza Luna
 
 
-1.**[Aclarar](https://gitlab.com/erik.argel/tp-ii-orga-ii-simd#aclarar)** 
+1.**[Aclarar](https://github.com/erik-argel/TP_II_Orga_II_SIMD/tree/main#aclarar)** 
 
-2.**[Median Filter](https://gitlab.com/erik.argel/tp-ii-orga-ii-simd#median-filter)**
+2.**[Median Filter](https://github.com/erik-argel/TP_II_Orga_II_SIMD/tree/main#median-filter)**
 
-3.**[Blend Modes C](https://gitlab.com/erik.argel/tp-ii-orga-ii-simd#blend-modes-c-)**
+3.**[Blend Modes C](https://github.com/erik-argel/TP_II_Orga_II_SIMD/tree/main#blend-modes-c-)**
 
-4.**[Blend Modes ASM](https://gitlab.com/erik.argel/tp-ii-orga-ii-simd#blend-modes-asm-)**
+4.**[Blend Modes ASM](https://github.com/erik-argel/TP_II_Orga_II_SIMD/tree/main#blend-modes-asm-)**
 
-5.**[Comparativa](https://gitlab.com/erik.argel/tp-ii-orga-ii-simd#comparativa)**
+5.**[Comparativa](https://github.com/erik-argel/TP_II_Orga_II_SIMD/tree/main#comparativa)**
 
 
 
