@@ -1,0 +1,22 @@
+= Organizacion del Computador 2: Trabajo Práctico 2 SIMD
+Mauro Zarza <mauro.mdz798@gmail.com> Erik Argel <erik.argel@outlook.com> <erik.argel.ungs@gmail.com>
+{docdate}.
+:numbered:
+:source-highlighter: highlight.js
+:tabsize: 4
+
+== Introducción
+
+
+
+
+[source, c]
+---------------
+---------------
+
+
+[source, shell]
+---------------
+---------------
+
+image::1-comando_make_clean___make.png[block image,800,450]
